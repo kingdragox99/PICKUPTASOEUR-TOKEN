@@ -9,10 +9,10 @@ Roadmap : Nothing.
 
 Deploy on matic
 
-+ Smart contract in Etherium : /
-+ Smart contract in Matic    : https://polygonscan.com/token/0x4ae29e9efBA48BE6Bdac93C3BB00Baa6039D6362
-+ Smart contract in BSC      : /
-+ Smart contarct in Arbitrum : /
++ Smart contract in Etherium  : /
++ Smart contract in Matic     : https://polygonscan.com/token/0x4ae29e9efBA48BE6Bdac93C3BB00Baa6039D6362
++ Smart contract in BSC       : /
++ Smart contarct in Arbitrum  : /
 
 *"Remember any type of cheat is a life time ban xoxo."*
 -Drago
